@@ -2,14 +2,14 @@
 
 ## Modalites
 
-- Panneaux ou panonceaux apposes aux entrees et le long des zones couvertes (voies publiques concernees), lisibles en toutes circonstances.
+- Panneaux ou panonceaux apposes a chaque point d'acces du public et de maniere claire, permanente et_SIGNIFICATIVE, conformement a l'article 2 de l'arrete en vigueur.
+- Chaque affichette mentionne les coordonnees du responsable aupres duquel s'exerce le droit d'acces aux images (maire et secretaire de mairie).
 
 ## Modele d'affiche (a adapter aux mentions de l'arrete en vigueur)
 
-« Pour votre securite, cet espace est couvert par un dispositif de videoprotection autorise par arrete prefectoral n° [ ].
-Responsable du dispositif : [reprendre l'arrete en vigueur].
-Droit d'acces aux images : conformement au code de la securite interieure, toute personne peut demander a consulter les enregistrements la concernant aupres de la mairie de [NOM DE LA COMMUNE], [adresse].
-Duree maximale de conservation des images : [30] jours. »
+« Pour votre securite, cet espace est couvert par un dispositif de videoprotection autorise par arrete prefectoral n° 2026-387 du 10 mars 2026.
+Droit d'acces aux images : conformement au code de la securite interieure, toute personne peut demander a consulter les enregistrements la concernant aupres du maire et de la secretaire de mairie - Mairie d'Evres, [adresse].
+Duree maximale de conservation des images : 30 jours (sauf enquete judiciaire). »
 
 ## A produire
 

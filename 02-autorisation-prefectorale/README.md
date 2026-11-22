@@ -23,8 +23,8 @@
 | 0 | Cerfa 13806*04 (en ligne, case modification) | demarche en ligne |
 | 1 | Rapport de presentation | demande-modification/01-rapport-de-presentation.md |
 | 2 | Plan de masse | a faire produire par l'installateur |
-| 3 | Plan de detail (voie publique ou 8 cameras et plus) | a faire produire par l'installateur |
-| 4 | Plan du perimetre (si perimetre videoprotege) | generalement non applicable |
+| 3 | Plan de detail (voie publique ou 8 cameras et plus : cas d'Evres les deux) | a faire produire par l'installateur |
+| 4 | Plan du perimetre (si perimetre videoprotege) | non applicable |
 | 5 | Description transmission / enregistrement / traitement | demande-modification/03-description-dispositif.md |
 | 6 | Personnes pouvant acceder aux images | demande-modification/04-personnes-habilitees.md |
 | 7 | Information du public (affiche / panonceau) | demande-modification/05-information-du-public.md |
@@ -35,26 +35,30 @@
 | 12 | Engagement de conformite | demande-modification/08-engagement-de-conformite.md |
 | 13 | Analyse d'impact (AIPD) | demande-modification/09-aipd.md |
 
+## Etat du dossier (mis a jour le 22/11/2026)
+
+- Commune porteuse : **Evres (55250)**, representee par le maire [Prenom NOM].
+- Arrete initial : **n° 2026-387 du 10 mars 2026**, autorisant **6 cameras visionnant la voie publique**, pour 5 ans renouvelable (valable jusqu'au 10 mars 2031).
+- Demande initiale enregistree sous le **n° 20240253** dans l'application nationale de videoprotection.
+- Extension visee : ajout de **1 a 3 cameras** (total apres extension : 7 a 9).
+- Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
+- Deport d'images : **non prevu** ; l'arrete en vigueur permet deja aux gendarmes habilites d'acceder a tout moment aux images (art. 4, dans les conditions de l'art. R.253-1 du CSI).
+- Finalites a reprendre telles quelles (arrete art. 1er) : protection des batiments et installations publics et de leurs abords ; prevention des atteintes a la securite des personnes et des biens dans des lieux exposes (agressions, vols, trafic de stupefiants) ; prevention et constatation des infractions relatives a l'abandon d'ordures, dechets, materiaux ou autres objets.
+- La modification substantielle doit etre declaree aux services prefectoraux (arrete art. 5) : c'est l'objet de la presente demande.
+
 ## Etapes
 
 1. Completer les gabarits de demande-modification/ (champs [A COMPLETER]).
 2. Demander a l'installateur pressenti : plans (masse + detail) et questionnaire de conformite, en parallele des devis (dossier 04-devis/).
 3. Deposer en ligne en suivant demande-modification/00-guide-depot.md.
 4. Enregistrer ici l'accuse de depot PDF : accuse-depot-modification.pdf.
-5. Cocher la piece correspondante du dossier FIPDR (README racine).
-6. En parallele : solliciter l'avis du referent surete police/gendarmerie (determinant pour la selection FIPDR, cf. www.referentsurete.fr).
-7. Attendre l'arrete prefectoral (instruction : referent surete, commission departementale de videoprotection) ; ordre de grandeur constate dans d'autres departements : 3 a 4 mois. Aucune mise en service avant reception de l'arrete.
-
-## Etat du dossier (22/11/2026)
-
-- Arrete initial : **en cours de validite**, la voie « Modification d'un systeme autorise » est applicable.
-- Extension : ajout de **1 a 3 cameras** sur la voie publique.
-- Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
-- Deport d'images vers police / gendarmerie : **non prevu** ; consultation des images par les forces de l'ordre sur requisition.
+5. Copier l'arrete 2026-387 ici (deja en notre possession) : arrete-2026-387.pdf.
+6. Cocher la piece correspondante du dossier FIPDR (README racine).
+7. En parallele : solliciter l'avis du referent surete gendarmerie (determinant pour la selection FIPDR, cf. www.referentsurete.fr).
+8. Attendre l'arrete prefectoral (instruction : referent surete, commission departementale des systemes de videoprotection) ; ordre de grandeur constate dans d'autres departements : 3 a 4 mois. Aucune mise en service avant reception de l'arrete.
 
 ### Reste a rassembler
 
-- [ ] Nom de la commune et identite du maire signataire
-- [ ] Arrete initial : numero de dossier, date, date d'expiration, nombre et localisation des cameras autorisees existantes
-- [ ] Localisation precise des 1 a 3 cameras de l'extension
+- [ ] Identite du maire signataire
+- [ ] Reperage / localisation des 6 cameras existantes et des voies visees par l'extension
 - [ ] Entreprise installeur retenue (devis)
