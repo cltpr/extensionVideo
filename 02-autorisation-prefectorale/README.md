@@ -26,7 +26,8 @@
   - **2 cameras neuves (CAM 7 et CAM 8) sur un nouveau site D**, a localiser ;
   - **deplacement de la CAM 1** du site A (champ de vision redondant avec la CAM 2) vers un **nouveau site E**, a localiser ;
   - configuration future : **8 cameras** sur 5 sites (A : CAM 2-3 ; B : CAM 4-5 ; C : CAM 6 ; D : CAM 7-8 ; E : CAM 1).
-- NB materiel : les CAM 7 et 8 occupent les 2 derniers ports PoE du commutateur (8/8 apres extension) ; liaisons radio/cablage a prevoir pour les sites D et E dans les devis.
+- **Transmission** : sites D et E **relias au site B par fibre optique**, sans antenne supplementaire ; liaisons radio existantes inchangees. Le cheminement et la connectique optique sont a faire figurer dans les devis (cout eligible FIPDR).
+- NB materiel : les CAM 7 et 8 occupent les 2 derniers ports PoE du commutateur (8/8 apres extension).
 - Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
 - Deport d'images : **non prevu** ; l'arrete en vigueur permet deja aux gendarmes habilites d'acceder a tout moment aux images (art. 4, conditions de l'art. R.253-1 du CSI).
 - Justification : zones du village non couvertes ; remontees d'habitants decus de ne pas etre inclus ; bilan positif du dispositif (resolution d'une incivilite grave, assistance aux forces de l'ordre dans une investigation de cambriolage dans un village voisin).
@@ -70,3 +71,4 @@ Les plans et la description du dossier initial (dossier-initial/description-proj
 - [ ] Localisation des sites D et E (voies visees, champs de vision)
 - [ ] Faits recents survenus depuis la mise en service (pour le rapport de presentation et la lettre)
 - [ ] Entreprise installeur retenue (devis, plans, questionnaire conforme)
+- [ ] Devis fibre : cheminement sites D / E vers site B, connectique optique, alimentation des cameras

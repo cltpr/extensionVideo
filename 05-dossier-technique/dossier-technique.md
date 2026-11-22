@@ -32,14 +32,14 @@ Extension :
 - Configuration future : site A (CAM 2, 3), site B (CAM 4, 5), site C (CAM 6), site D (CAM 7, 8), site E (CAM 1). **Total : 8 cameras.**
 - Enregistreur / stockage : DAHUA DHI-NVR5216-8P6EI (16 canaux ; capacite disque [ ]), duree de conservation **30 jours maximum**.
 - Commutateur : DH-PFS3110-8ET-96 (8 ports PoE ; **8/8 utilises apres extension**, equipement PoE supplementaire requis pour toute camera additionnelle).
-- Transmission : liaison radio NANO BEAM NBE-5AC-Gen2 ; **liaisons a prevoir pour les sites D et E** (radio et/ou cablage, alimentation).
+- Transmission : liaison radio NANO BEAM NBE-5AC-Gen2 entre sites et mairie (inchangee) ; **sites D et E relies au site B par fibre optique, sans antenne supplementaire** (cheminement et connectique optique au devis).
 - Alimentation / onduleur : [ ]
 - Signalisation : [nombre et emplacement des panneaux, cf. modele d'affiche dossier 02 ; panneaux a prevoir aux abords des sites D et E]
 
 ## 3. Localisation
 
 - Joindre le **plan de situation** des caméras existantes et nouvelles (PDF nomme plan-localisation-cameras.pdf) ; reprendre la presentation du dossier initial (dossier-initial/description-projet-initial.tex : villageComplet.jpg par site, champs de vues par camera, zones privees masquees).
-- [ ] Plan de localisation des equipements (sites A a E)
+- [ ] Plan de localisation des equipements (sites A a E), avec le cheminement de la fibre entre les sites D / E et le site B.
 
 ## 4. Exploitation et consultation des images
 

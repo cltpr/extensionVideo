@@ -11,8 +11,9 @@
 
 ## Transmission
 
-- Liaison radio **NANO BEAM NBE-5AC-Gen2** entre sites et mairie, reseau dedie isole d'Internet.
-- **Liaisons a prevoir pour les sites D et E** dans le devis (radio et/ou cablage, alimentation, cheminement).
+- Liaison radio **NANO BEAM NBE-5AC-Gen2** entre les sites et la mairie, reseau dedie isole d'Internet, **inchangee**.
+- **Sites D et E : raccordement au site B par fibre optique**, sans antenne supplementaire ; le site B reste relie a la mairie comme a ce jour.
+- Cheminement fibre, connectique optique et alimentation des nouvelles cameras (PoE ou injecteur) : a faire figurer dans le devis (dossier 04-devis/).
 
 ## Enregistrement et stockage
 
