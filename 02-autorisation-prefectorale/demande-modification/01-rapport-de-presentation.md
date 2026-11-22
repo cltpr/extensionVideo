@@ -17,16 +17,22 @@
 
 ### 2. Contexte et justification de l'extension
 
-Le contexte ayant justifie l'installation initiale demeure (cf. lettre de demande initiale, dossier-initial/) :
+**Bilan d'exploitation du dispositif actuel, installe depuis peu** :
+- le visionnage des enregistrements a permis de **resoudre une incivilite grave** ;
+- il a egalement **assiste les forces de l'ordre** dans le cadre d'une investigation menee a la suite d'un **cambriolage commis dans un village voisin**.
+
+**Objet de l'extension** : inclure dans le dispositif des **zones du village non couvertes** par les cameras actuelles : [zones / voies a preciser].
+
+**Remontees des habitants** : les habitants des zones non couvertes, decus de ne pas etre inclus dans le dispositif, ont demande a beneficier de la meme protection que le reste du village : [dates et formes des remontees].
+
+**Contexte initial persistent** (cf. lettre de demande initiale, dossier-initial/) :
 
 - Presence frequente de vehicules au comportement suspect, servant le plus souvent a des rodeurs a venir reconaitre ou voler dans le village.
 - Vols de carburant a plusieurs reprises sur des tracteurs gares dans le village ; plaintes non deposees du fait du prejudice modeste.
---rodeurs a pied decales et mis en fuite ; degradation du systeme d'eclairage communal dans les armoires electriques.
+- Rodeurs a pied decales et mis en fuite ; degradation du systeme d'eclairage communal dans les armoires electriques.
 - Introduction nocturne d'un rodeur au domicile d'un habitant en situation de handicap.
 - Reactions intempestives d'habitants (poursuite d'un vehicule suspect jusqu'a un village voisin, coups de feu tires en l'air la nuit).
-- **[A completer : faits survenus depuis la mise en service, refus de developpement ici]**.
-
-Limites du dispositif actuel : **[angles morts, voies non couvertes : a preciser selon les localisations visees]**.
+- [A completer : faits survenus depuis la mise en service].
 
 Avis du referent surete : sollicite le [date] / avis rendu le [date] : [resume].
 
