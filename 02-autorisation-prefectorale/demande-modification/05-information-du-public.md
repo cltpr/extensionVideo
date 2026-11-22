@@ -2,7 +2,7 @@
 
 ## Modalites
 
-- Panneaux ou panonceaux apposes a chaque point d'acces du public et de maniere claire, permanente et_SIGNIFICATIVE, conformement a l'article 2 de l'arrete en vigueur.
+- Panneaux ou panonceaux apposes a chaque point d'acces du public et de maniere claire, permanente et significative, conformement a l'article 2 de l'arrete en vigueur.
 - Chaque affichette mentionne les coordonnees du responsable aupres duquel s'exerce le droit d'acces aux images (maire et secretaire de mairie).
 
 ## Modele d'affiche (a adapter aux mentions de l'arrete en vigueur)
