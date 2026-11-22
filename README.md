@@ -4,8 +4,8 @@ Dépôt de candidature à l'appel à projets FIPDR 2027 (préfecture de la Meuse
 
 | | |
 |---|---|
-| **Porteur** | Commune de [NOM DE LA COMMUNE] |
-| **Projet** | Extension du système de vidéoprotection |
+| **Porteur** | Commune d'Evres (55250), M. Clément Fevez, maire |
+| **Projet** | Extension du système de vidéoprotection (6 caméras existantes, arrêté n° 2026-387 du 10 mars 2026) |
 | **Date limite de dépôt** | **lundi 7 décembre 2026 à 00h00** |
 | **Télé-dépôt** | Plateforme Subventia (guide utilisateur téléchargeable sur la page de l'appel) |
 
@@ -41,4 +41,4 @@ Un **retour impératif** devra être fait via le **Cerfa de bilan**, comprenant 
 
 ## Suivi
 
-Cocher les cases de la checklist au fur et à mesure. Les gabarits des dossiers 03 et 05 sont à compléter directement dans ce repo.
+Cocher les cases de la checklist au fur et à mesure. Les gabarit des dossiers 03 et 05 sont à compléter directement dans ce repo.
