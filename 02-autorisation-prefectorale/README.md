@@ -27,7 +27,9 @@
   - **deplacement de la CAM 1** du site A (champ de vision redondant avec la CAM 2) vers un **nouveau site E**, a localiser ;
   - configuration future : **8 cameras** sur 5 sites (A : CAM 2-3 ; B : CAM 4-5 ; C : CAM 6 ; D : CAM 7-8 ; E : CAM 1).
 - **Transmission** : sites D et E **relias au site B par fibre optique**, sans antenne supplementaire ; liaisons radio existantes inchangees.
-- **Base eligible / elicitabilite de la fibre (regle DEPSA reprise dans les AAP FIPD 2027)** : base plafonnee a **15 000 € par camera, cout d'installation et de raccordement compris** ; sont exclus de ce cout les depenses CSU, deports d'images et toute depense sans rapport avec l'installation des cameras. La fibre vers les sites D et E releve donc du raccordement : a presenter **dans le devis par camera** (pas en poste separe), dans la limite du plafond.
+- **Base eligible (regle DEPSA reprise dans les AAP FIPD 2027)** : base plafonnee a **15 000 € par camera, cout d'installation et de raccordement compris** ; exclus de ce cout : CSU, deports d'images et toute depense sans rapport avec l'installation des cameras.
+  - La **fibre optique** vers les sites D et E releve du raccordement : a presenter **par camera dans le devis** (pas en poste separe), dans la limite du plafond.
+  - Idem pour l'**alimentation electrique strictement necessaire aux cameras** (ligne dediee, armoire, protection, onduleur du systeme) : incluse dans le cout d'installation par camera. En revanche, un renforcement de reseau profitant au village, une mise aux normes de l'eclairage public ou des depenses recurrentes (abonnement, consommation) sont sans rapport direct avec l'installation des cameras : exclus.
 - **Vigilance plan de financement** : la CAM 1 deplacee au site E n'est pas une acquisition ; par prudence, chiffrer la base eligible sur les seules CAM 7-8 et demander au service instructeur si le raccordement du site E peut compter dans la base des cameras de l'extension.
 - NB materiel : les CAM 7 et 8 occupent les 2 derniers ports PoE du commutateur (8/8 apres extension).
 - Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
@@ -61,7 +63,7 @@ Les plans et la description du dossier initial (dossier-initial/description-proj
 ## Etapes
 
 1. Completer les gabarits de demande-modification/ : localisations des sites D et E, faits recents.
-2. Demander a l'installateur pressenti : devis detailles **par camera (materiel, pose, raccordement fibre imputable)**, plans (masse + detail) et questionnaire de conformite.
+2. Demander a l'installateur pressenti : devis detailles **par camera (materiel, pose, raccordement fibre et alimentation electrique imputables)**, plans (masse + detail) et questionnaire de conformite.
 3. Deposer en ligne en suivant demande-modification/00-guide-depot.md.
 4. Enregistrer ici l'accuse de depot PDF : accuse-depot-modification.pdf, et copier l'arrete 2026-387 : arrete-2026-387.pdf.
 5. Cocher la piece correspondante du dossier FIPDR (README racine).
@@ -73,4 +75,4 @@ Les plans et la description du dossier initial (dossier-initial/description-proj
 - [ ] Localisation des sites D et E (voies visees, champs de vision)
 - [ ] Faits recents survenus depuis la mise en service (pour le rapport de presentation et la lettre)
 - [ ] Entreprise installeur retenue (devis par camera, plans, questionnaire conforme)
-- [ ] Devis fibre : cheminement sites D / E vers site B, connectique optique, alimentation des cameras, imputations par camera
+- [ ] Devis : cheminement fibre sites D / E vers site B, connectique optique, alimentation electrique dediee des cameras, imputations par camera
