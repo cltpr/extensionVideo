@@ -2,9 +2,17 @@
 
 ## Architecture
 
-- Existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** (sites A, B et C, entrees du village) raccordees au commutateur **DH-PFS3110-8ET-96** (8 ports PoE, 6 utilises) vers l'enregistreur **DAHUA DHI-NVR5216-8P6EI** (16 canaux) en mairie, Place de la Halle.
-- Extension : ajout de **1 a 3 cameras** [modeles a definir au devis], au-dela de 2 cameras nouvelles un equipement reseau PoE supplementaire sera necessaire (le NVR accepte 16 canaux mais le commutateur n'a que 8 ports PoE).
-- Transmission : liaison radio **NANO BEAM NBE-5AC-Gen2** entre sites et mairie [a adapter selon implantation des nouvelles cameras], reseau dedie isole d'Internet.
+- Existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** (sites A, B et C, entrees du village) raccordees au commutateur **DH-PFS3110-8ET-96** (8 ports PoE, 6 utilises actuellement) vers l'enregistreur **DAHUA DHI-NVR5216-8P6EI** (16 canaux) en mairie, Place de la Halle.
+- Extension :
+  - **2 cameras nouvelles sur le nouveau site D** (CAM 7 et CAM 8), [modeles a definir au devis] ;
+  - **deplacement de la CAM 1** du site A (champ de vision redondant avec la CAM 2) vers le **nouveau site E** [voie / lieu a preciser].
+- Configuration future : **8 cameras** sur 5 sites : A (CAM 2, 3), B (CAM 4, 5), C (CAM 6), D (CAM 7, 8), E (CAM 1).
+- Ports PoE : **8/8 utilises apres extension** (les CAM 7 et 8 occupent les 2 ports libres ; la CAM 1 deplacee conserve sa baie physique). Le NVR (16 canaux) reste evolutif mais toute camera supplementaire exigera un equipement PoE additionnel.
+
+## Transmission
+
+- Liaison radio **NANO BEAM NBE-5AC-Gen2** entre sites et mairie, reseau dedie isole d'Internet.
+- **Liaisons a prevoir pour les sites D et E** dans le devis (radio et/ou cablage, alimentation, cheminement).
 
 ## Enregistrement et stockage
 
@@ -19,7 +27,7 @@
 
 ## Transmission aux forces de l'ordre
 
-- Pas de deport d'images en continu (choix retenu au 22/11/2026).
+- Pas de deport d'images en continu (choix retenu).
 - Les fonctionnaires de gendarmerie habilites et designes dans les conditions de l'article R.253-1 du CSI peuvent acceder **a tout moment** aux images et enregistrements, comme le prevoit l'arrete en vigueur (art. 4) ; conservation par ces derniers de 30 jours maximum.
 - NB FIPDR : aucun poste de deport a inscrire au plan de financement (03).
 

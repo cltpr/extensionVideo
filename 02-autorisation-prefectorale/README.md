@@ -21,10 +21,15 @@
 - Commune porteuse : **Evres (55250)**, representee par M. **Clement FEVEZ**, maire (Place de la Halle, 55250 Evres ; tel. 03 29 92 05 97 ; evres@orange.fr).
 - Arrete initial : **n° 2026-387 du 10 mars 2026**, autorisant **6 cameras visionnant la voie publique**, pour 5 ans renouvelable (valable jusqu'au 10 mars 2031).
 - Demande initiale enregistree sous le **n° 20240253** ; dossier initial (lettre au prefet + description du projet d'aout 2025) archive dans dossier-initial/.
-- Systeme existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** sur 3 sites : site A (cameras 1-3 : entree Nord / Foucaucourt, arrivee D151 Ouest / Triaucourt, rue de la Tannerie Sud), site B (cameras 4-5 : rue du Moulin Ouest, rue de la Tannerie / Vaubecourt Sud), site C (camera 6 : entree Est / Nubecourt) ; NVR DAHUA DHI-NVR5216-8P6EI et commutateur DH-PFS3110-8ET-96 en mairie, liaison radio NANO BEAM NBE-5AC-Gen2 ; enregistrement standard, autres options desactivees (pas de traitement algorithmique, conforme aux exclusions FIPDR).
-- Extension visee : ajout de **1 a 3 cameras** (total 7 a 9). NB materiel : le NVR accepte 16 canaux mais le commutateur n'a que 8 ports PoE (6 utilises) : au-dela de 2 cameras nouvelles, prevoir un equipement reseau supplementaire dans les devis.
+- Systeme existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** sur 3 sites : site A (cameras 1-3 : entree Nord / Foucaucourt, arrivee D151 Ouest / Triaucourt, rue de la Tannerie Sud), site B (cameras 4-5 : rue du Moulin, rue de la Tannerie / Vaubecourt), site C (camera 6 : entree Est / Nubecourt) ; NVR DAHUA DHI-NVR5216-8P6EI et commutateur DH-PFS3110-8ET-96 en mairie, liaison radio NANO BEAM NBE-5AC-Gen2 ; enregistrement standard, autres options desactivees.
+- **Extension visee** :
+  - **2 cameras neuves (CAM 7 et CAM 8) sur un nouveau site D**, a localiser ;
+  - **deplacement de la CAM 1** du site A (champ de vision redondant avec la CAM 2) vers un **nouveau site E**, a localiser ;
+  - configuration future : **8 cameras** sur 5 sites (A : CAM 2-3 ; B : CAM 4-5 ; C : CAM 6 ; D : CAM 7-8 ; E : CAM 1).
+- NB materiel : les CAM 7 et 8 occupent les 2 derniers ports PoE du commutateur (8/8 apres extension) ; liaisons radio/cablage a prevoir pour les sites D et E dans les devis.
 - Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
 - Deport d'images : **non prevu** ; l'arrete en vigueur permet deja aux gendarmes habilites d'acceder a tout moment aux images (art. 4, conditions de l'art. R.253-1 du CSI).
+- Justification : zones du village non couvertes ; remontees d'habitants decus de ne pas etre inclus ; bilan positif du dispositif (resolution d'une incivilite grave, assistance aux forces de l'ordre dans une investigation de cambriolage dans un village voisin).
 - Finalites a reprendre telles quelles (arrete art. 1er) : protection des batiments et installations publics et de leurs abords ; prevention des atteintes a la securite des personnes et des biens dans des lieux exposes (agressions, vols, trafic de stupefiants) ; prevention et constatation des infractions relatives a l'abandon d'ordures, dechets, materiaux ou autres objets.
 - La modification substantielle doit etre declaree aux services prefectoraux (arrete art. 5) : c'est l'objet de la presente demande.
 
@@ -52,7 +57,7 @@ Les plans et la description du dossier initial (dossier-initial/description-proj
 
 ## Etapes
 
-1. Completer les gabarits de demande-modification/ (champs [A COMPLETER]) : localisations des nouvelles cameras et faits recents.
+1. Completer les gabarits de demande-modification/ : localisations des sites D et E, faits recents.
 2. Demander a l'installateur pressenti : devis, plans (masse + detail) et questionnaire de conformite, en parallele des devis (dossier 04-devis/).
 3. Deposer en ligne en suivant demande-modification/00-guide-depot.md.
 4. Enregistrer ici l'accuse de depot PDF : accuse-depot-modification.pdf, et copier l'arrete 2026-387 : arrete-2026-387.pdf.
@@ -62,6 +67,6 @@ Les plans et la description du dossier initial (dossier-initial/description-proj
 
 ### Reste a rassembler
 
-- [ ] Localisation et justification des 1 a 3 nouvelles cameras (voies visees, angles morts du dispositif actuel)
+- [ ] Localisation des sites D et E (voies visees, champs de vision)
 - [ ] Faits recents survenus depuis la mise en service (pour le rapport de presentation et la lettre)
 - [ ] Entreprise installeur retenue (devis, plans, questionnaire conforme)
