@@ -16,11 +16,24 @@
 4. Une demande de modification **prolonge automatiquement l'autorisation de 5 ans**.
 5. La prefecture de la Meuse n'accepte les dossiers complets **que de facon dematerialisee**.
 
+## Etat du dossier (mis a jour le 22/11/2026)
+
+- Commune porteuse : **Evres (55250)**, representee par M. **Clement FEVEZ**, maire (Place de la Halle, 55250 Evres ; tel. 03 29 92 05 97 ; evres@orange.fr).
+- Arrete initial : **n° 2026-387 du 10 mars 2026**, autorisant **6 cameras visionnant la voie publique**, pour 5 ans renouvelable (valable jusqu'au 10 mars 2031).
+- Demande initiale enregistree sous le **n° 20240253** ; dossier initial (lettre au prefet + description du projet d'aout 2025) archive dans dossier-initial/.
+- Systeme existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** sur 3 sites : site A (cameras 1-3 : entree Nord / Foucaucourt, arrivee D151 Ouest / Triaucourt, rue de la Tannerie Sud), site B (cameras 4-5 : rue du Moulin Ouest, rue de la Tannerie / Vaubecourt Sud), site C (camera 6 : entree Est / Nubecourt) ; NVR DAHUA DHI-NVR5216-8P6EI et commutateur DH-PFS3110-8ET-96 en mairie, liaison radio NANO BEAM NBE-5AC-Gen2 ; enregistrement standard, autres options desactivees (pas de traitement algorithmique, conforme aux exclusions FIPDR).
+- Extension visee : ajout de **1 a 3 cameras** (total 7 a 9). NB materiel : le NVR accepte 16 canaux mais le commutateur n'a que 8 ports PoE (6 utilises) : au-dela de 2 cameras nouvelles, prevoir un equipement reseau supplementaire dans les devis.
+- Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
+- Deport d'images : **non prevu** ; l'arrete en vigueur permet deja aux gendarmes habilites d'acceder a tout moment aux images (art. 4, conditions de l'art. R.253-1 du CSI).
+- Finalites a reprendre telles quelles (arrete art. 1er) : protection des batiments et installations publics et de leurs abords ; prevention des atteintes a la securite des personnes et des biens dans des lieux exposes (agressions, vols, trafic de stupefiants) ; prevention et constatation des infractions relatives a l'abandon d'ordures, dechets, materiaux ou autres objets.
+- La modification substantielle doit etre declaree aux services prefectoraux (arrete art. 5) : c'est l'objet de la presente demande.
+
 ## Pieces du dossier de demande de modification
 
 | # | Piece | Gabarit / source |
 |---|---|---|
 | 0 | Cerfa 13806*04 (en ligne, case modification) | demarche en ligne |
+| 0 bis | Lettre au prefet (facultative mais recommandee, a joindre en ligne) | demande-modification/00-lettre-au-prefet.tex |
 | 1 | Rapport de presentation | demande-modification/01-rapport-de-presentation.md |
 | 2 | Plan de masse | a faire produire par l'installateur |
 | 3 | Plan de detail (voie publique ou 8 cameras et plus : cas d'Evres les deux) | a faire produire par l'installateur |
@@ -35,30 +48,20 @@
 | 12 | Engagement de conformite | demande-modification/08-engagement-de-conformite.md |
 | 13 | Analyse d'impact (AIPD) | demande-modification/09-aipd.md |
 
-## Etat du dossier (mis a jour le 22/11/2026)
-
-- Commune porteuse : **Evres (55250)**, representee par le maire [Prenom NOM].
-- Arrete initial : **n° 2026-387 du 10 mars 2026**, autorisant **6 cameras visionnant la voie publique**, pour 5 ans renouvelable (valable jusqu'au 10 mars 2031).
-- Demande initiale enregistree sous le **n° 20240253** dans l'application nationale de videoprotection.
-- Extension visee : ajout de **1 a 3 cameras** (total apres extension : 7 a 9).
-- Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
-- Deport d'images : **non prevu** ; l'arrete en vigueur permet deja aux gendarmes habilites d'acceder a tout moment aux images (art. 4, dans les conditions de l'art. R.253-1 du CSI).
-- Finalites a reprendre telles quelles (arrete art. 1er) : protection des batiments et installations publics et de leurs abords ; prevention des atteintes a la securite des personnes et des biens dans des lieux exposes (agressions, vols, trafic de stupefiants) ; prevention et constatation des infractions relatives a l'abandon d'ordures, dechets, materiaux ou autres objets.
-- La modification substantielle doit etre declaree aux services prefectoraux (arrete art. 5) : c'est l'objet de la presente demande.
+Les plans et la description du dossier initial (dossier-initial/description-projet-initial.tex) servent de modele pour ceux de l'extension.
 
 ## Etapes
 
-1. Completer les gabarits de demande-modification/ (champs [A COMPLETER]).
-2. Demander a l'installateur pressenti : plans (masse + detail) et questionnaire de conformite, en parallele des devis (dossier 04-devis/).
+1. Completer les gabarits de demande-modification/ (champs [A COMPLETER]) : localisations des nouvelles cameras et faits recents.
+2. Demander a l'installateur pressenti : devis, plans (masse + detail) et questionnaire de conformite, en parallele des devis (dossier 04-devis/).
 3. Deposer en ligne en suivant demande-modification/00-guide-depot.md.
-4. Enregistrer ici l'accuse de depot PDF : accuse-depot-modification.pdf.
-5. Copier l'arrete 2026-387 ici (deja en notre possession) : arrete-2026-387.pdf.
-6. Cocher la piece correspondante du dossier FIPDR (README racine).
-7. En parallele : solliciter l'avis du referent surete gendarmerie (determinant pour la selection FIPDR, cf. www.referentsurete.fr).
-8. Attendre l'arrete prefectoral (instruction : referent surete, commission departementale des systemes de videoprotection) ; ordre de grandeur constate dans d'autres departements : 3 a 4 mois. Aucune mise en service avant reception de l'arrete.
+4. Enregistrer ici l'accuse de depot PDF : accuse-depot-modification.pdf, et copier l'arrete 2026-387 : arrete-2026-387.pdf.
+5. Cocher la piece correspondante du dossier FIPDR (README racine).
+6. En parallele : solliciter l'avis du referent surete gendarmerie (determinant pour la selection FIPDR, cf. www.referentsurete.fr).
+7. Attendre l'arrete prefectoral (instruction : referent surete, commission departementale des systemes de videoprotection) ; ordre de grandeur constate dans d'autres departements : 3 a 4 mois. Aucune mise en service avant reception de l'arrete.
 
 ### Reste a rassembler
 
-- [ ] Identite du maire signataire
-- [ ] Reperage / localisation des 6 cameras existantes et des voies visees par l'extension
-- [ ] Entreprise installeur retenue (devis)
+- [ ] Localisation et justification des 1 a 3 nouvelles cameras (voies visees, angles morts du dispositif actuel)
+- [ ] Faits recents survenus depuis la mise en service (pour le rapport de presentation et la lettre)
+- [ ] Entreprise installeur retenue (devis, plans, questionnaire conforme)

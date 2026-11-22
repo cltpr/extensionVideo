@@ -1,20 +1,21 @@
-# Description du dispositif de transmission, enregistrement et traitement des images
+# Description du dispositif de transmission, enregistrement et traitement des images (commune d'Evres)
 
 ## Architecture
 
-- 6 cameras existantes + 1 a 3 nouvelles [IP / analogiques HD] (marques et modeles : a completer avec le devis) raccordees a [switch PoE / concentrateur] vers enregistreur [NVR, marque, capacite].
-- Transmission : [fibre optique / cablage filaire / liaison radio], sur reseau dedie, isole d'Internet.
+- Existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** (sites A, B et C, entrees du village) raccordees au commutateur **DH-PFS3110-8ET-96** (8 ports PoE, 6 utilises) vers l'enregistreur **DAHUA DHI-NVR5216-8P6EI** (16 canaux) en mairie, Place de la Halle.
+- Extension : ajout de **1 a 3 cameras** [modeles a definir au devis], au-dela de 2 cameras nouvelles un equipement reseau PoE supplementaire sera necessaire (le NVR accepte 16 canaux mais le commutateur n'a que 8 ports PoE).
+- Transmission : liaison radio **NANO BEAM NBE-5AC-Gen2** entre sites et mairie [a adapter selon implantation des nouvelles cameras], reseau dedie isole d'Internet.
 
 ## Enregistrement et stockage
 
-- Enregistrement [continu / sur detection], resolution [ ], horodatage.
-- Duree de conservation : **30 jours maximum** (comme l'exige l'arrete n° 2026-387, art. 2), ecrasement / effacement automatique ; destruction hormis cas d'enquete de flagrant delit, d'enquete preliminaire ou d'information judiciaire.
-- Securite : acces restreint (comptes nominatifs, mots de passe individuels), local protege, journal des acces, mises a jour du constructeur.
+- Enregistreur configure en **mode standard d'enregistrement**, les autres options disponibles demeurent **desactivees** (pas de traitement algorithmique, conforme aussi aux exclusions FIPDR 2027).
+- Duree de conservation : **30 jours maximum** (arrete n° 2026-387, art. 2), ecrasement / effacement automatique ; destruction hormis cas d'enquete de flagrant delit, d'enquete preliminaire ou d'information judiciaire.
+- Securite : acces restreint (comptes nominatifs, mots de passe individuels), local protege en mairie, journal des acces, mises a jour du constructeur.
 
 ## Poste(s) de visualisation
 
-- Localisation : [mairie / brigade de gendarmerie / autre].
-- Personnes habilitees : liste jointe (04-personnes-habilitees.md).
+- Mairie d'Evres, Place de la Halle, 55250 Evres.
+- Personnes habilitees : maire et secretaire de mairie (liste jointe, 04-personnes-habilitees.md).
 
 ## Transmission aux forces de l'ordre
 
