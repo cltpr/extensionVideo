@@ -18,8 +18,9 @@
 
 ## Transmission aux forces de l'ordre
 
-- [Deport d'images en continu vers ... via ligne dediee] OU [consultation sur place / transmission d'extraits sur requisition].
-- Point FIPDR : le deport d'images vers police / gendarmerie (premiere installation ou extension, location de ligne la premiere anne incluse) est finance a 100 % ; inclure ce poste dans le plan de financement (03).
+- Pas de deport d'images en continu (choix retenu au 22/11/2026).
+- Consultation sur place et transmission d'extraits ou de copies sur requisition ou a la demande des enqueteurs.
+- NB FIPDR : aucun poste de deport a inscrire au plan de financement (03) ; les forces de l'ordre accederont aux images selon les modalites ci-dessus.
 
 ## Maintenance
 

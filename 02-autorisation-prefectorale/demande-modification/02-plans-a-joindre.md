@@ -7,7 +7,7 @@
 
 ## Plan de detail (obligatoire)
 
-- Obligatoire des lors que le systeme visionne la voie publique ou comporte au moins 8 cameras.
+- Obligatoire ici : le dispositif communal visionne la voie publique (le seuil de 8 cameras total ne change rien, la condition voie publique suffit).
 - Doit faire apparaitre : la position de chaque camera (repere CAM n), ses champs de vision et les zones couvertes.
 
 ## Coherences exigees

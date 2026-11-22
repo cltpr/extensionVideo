@@ -9,7 +9,7 @@
 ### 1. Systeme autorise existant
 
 - Au titre de l'arrete cite ci-dessus, la commune exploite [N] cameras de videoprotection installees sur la voie publique aux emplacements suivants : [liste des voies / adresses].
-- L'exploitation est conforme aux prescriptions de l'arrete : habilitations a jour, information du public assuree, duree de conservee appliquee.
+- L'exploitation est conforme aux prescriptions de l'arrete : habilitations a jour, information du public assuree, duree de conservation appliquee.
 
 ### 2. Contexte et justification de l'extension
 
@@ -19,12 +19,13 @@
 
 ### 3. Extension demandee
 
-Ajout de [N] cameras :
+Ajout de 1 a 3 cameras :
 
 | Repere | Localisation (voie / lieu) | Motif |
 |---|---|---|
 | CAM [n] | | |
 | CAM [n] | | |
+| CAM [n] (si applicable) | | |
 
 - Aucun retrait ni deplacement des cameras existantes (sinon preciser : [ ]).
 - Nombre total de cameras apres extension : [existantes + nouvelles].
@@ -35,7 +36,7 @@ Identiques a celles de l'autorisation en vigueur : protection des personnes et d
 
 ### 5. Traitement et consultation des images
 
-- Poste de visualisation : [localisation], consultation par les personnes habilitees (liste jointe) et les forces de l'ordre ([modalites de deport]).
+- Poste de visualisation : [localisation], consultation par les personnes habilitees (liste jointe) ; les forces de l'ordre accederont aux images sur requisition (pas de deport en continu).
 - Enregistrement : duree maximale de [30] jours, effacement automatique.
 - Information du public : panneaux conformes (modele joint).
 

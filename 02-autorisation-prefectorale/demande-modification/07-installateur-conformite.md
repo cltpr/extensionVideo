@@ -1,21 +1,19 @@
 # Conformite aux normes techniques (arrete du 3 aout 2007)
 
-Deux situations : ne produire qu'un des deux documents.
+## Situation retenue : installateur non certifie
 
-## Cas 1 - Installateur certifie
+Document a produire : **questionnaire de conformite** precisant les caracteristiques techniques du dispositif et sa conformite aux normes techniques definies par l'arrete du 3 aout 2007 (modele telechargeable depuis les pages « Videoprotection » des prefectures, dit « Annexe 1 - Questionnaire de conformite »).
 
-- Document a produire : **attestation de conformite** delivree par l'installateur.
-- A demander des la remise du devis (dossier 04-devis/) pour ne pas allonger les delais.
-- Le cas echeant : attestation que les cameras filmant les abords immediats sont debranchees des cameras interieures et non visionnables par le demandeur ou ses subordonnes.
-
-## Cas 2 - Installateur non certifie
-
-- Document a produire : **questionnaire de conformite** precisant les caracteristiques techniques du dispositif et sa conformite aux normes (modele telechargeable depuis les pages Videoprotection des prefectures, dit « Annexe 1 - Questionnaire de conformite »).
 - Faire viser le questionnaire par l'installateur ou le service technique communal.
+- A demander en meme temps que le devis (dossier 04-devis/) pour ne pas allonger les delais.
+- Le cas echeant, y preciser que les cameras filmant les abords immediats sont debranchees des cameras interieures et que les images ne peuvent etre techniquement visionnees par le demandeur ou ses subordonnes.
 
 ## Suivi dans ce dossier
 
 - [ ] Entreprise retenue : [ ]
-- [ ] Certifiee : oui / non
-- [ ] Document obtenu : attestation / questionnaire
+- [ ] Questionnaire de conformite recu et vise
 - Fichier attendu : conformite-installateur.pdf
+
+## Pour memoire
+
+Si l'entreprise retenue etait finalement certifiee, remplacer le questionnaire par une attestation de conformite delivree par l'installateur (document simplifie).
