@@ -25,8 +25,11 @@ vidéoprotection de la commune d'Evres ;
 dont la date limite de dépôt est fixée au 7 décembre 2026 ;
 
 **VU** le devis de l'entreprise [nom] en date du [date], d'un montant de [ ] EUR HT /
-[ ] EUR TTC, portant sur l'installation de 3 caméras nouvelles sur trois nouveaux sites (D, E et F)
-de la commune et leur raccordement au système existant par câblage Ethernet direct ;
+[ ] EUR TTC, portant sur l'installation de 3 caméras nouvelles (CAM 7, 8 et 9) sur trois
+nouveaux sites (D : entrée du village côté Vaubécourt ; E : rue du Moulin ; F : rue de Soisy)
+et leur raccordement au système existant par câblage Ethernet direct, ainsi que la
+réorientation du champ de vision de la caméra 1 vers les abords de la mairie et de la
+salle des fêtes ;
 
 **VU** le code général des collectivités territoriales, notamment son article
 L. 2122-22 (pouvoirs du maire) ;
@@ -39,28 +42,32 @@ L. 2122-22 (pouvoirs du maire) ;
 - des zones du village ne sont pas couvertes par le dispositif actuel, et les habitants
   concernés ont exprimé le souhait d'y être inclus ;
 - l'extension projetée renforcera la prévention et la constatation des atteintes aux personnes
-  et aux biens sur le territoire communal ;
+  et aux biens sur le territoire communal, ainsi que la protection des bâtiments publics ;
 
 ## DÉCIDE
 
 **Article 1er.** Le conseil municipal approuve le projet d'extension du système de
 vidéoprotection de la commune : installation de **3 caméras nouvelles (CAM 7, CAM 8 et CAM 9)
-sur trois nouveaux sites (D, E et F)**, avec raccordement de ces sites au système existant par
-câblage Ethernet direct, tel que présenté au devis cité ci-dessus. Aucune caméra existante
-n'est retirée, déplacée ou modifiée.
+sur trois nouveaux sites (D : entrée du village côté Vaubécourt ; E : rue du Moulin ;
+F : rue de Soisy)**, avec raccordement de ces sites au système existant par câblage Ethernet
+direct, et **réorientation du champ de vision de la caméra 1** (sans déplacement) vers les
+abords de la mairie et de la salle des fêtes, tel que présenté au devis cité ci-dessus.
+Aucune autre caméra existante n'est retirée, déplacée ou modifiée.
 
 **Article 2.** Le conseil municipal autorise la présentation d'une demande de subvention au
 titre du **Fonds interministériel de prévention de la délinquance (FIPDR 2027, programme S)**
 auprès du préfet de la Meuse, pour un montant sollicité de **[ ] EUR HT**, complétée par une
 participation communale de **[ ] EUR**, conformément au plan de financement annexé à la
-présente délibération.
+présente délibération. La réorientation de la caméra 1, sans acquisition, est prise en charge
+par la commune hors base éligible.
 
 **Article 3.** Le montant de l'opération est fixé à **[ ] EUR HT ([ ] EUR TTC)** et inscrit au
 budget communal, exercice 2027.
 
 **Article 4.** Le maire, M. Clément FEVEZ, est autorisé à signer tous documents nécessaires
-à la constitution et au dépôt du dossier de demande de subvention et à agir au nom de la
-commune pour toutes les formalités liées à l'opération.
+à la constitution et au dépôt du dossier de demande de subvention (y compris le dossier de
+demande de modification de l'autorisation préfectorale) et à agir au nom de la commune pour
+toutes les formalités liées à l'opération.
 
 **Article 5.** Le secrétaire de mairie est chargé de l'exécution de la présente délibération,
 qui sera transmise au représentant de l'État, publiée et affichée dans les conditions

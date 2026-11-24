@@ -1,12 +1,12 @@
 # 02 - Autorisation prefectorale : demande de modification du systeme
 
-> NB : dossier.prepare le 22/11/2026, **perimetre actualise le 24/11/2026** (3 cameras neuves sur sites D, E, F ; plus de déplacement de camera ; raccordement Ethernet direct). Verifier la page Videoprotection de la prefecture de la Meuse au moment du depot (plateforme temporaire suite a l'indisponibilite de la tele-procedure ministerielle depuis le 21/10/2026).
+> NB : dossier.prepare le 22/11/2026, **perimetre actualise le 24/11/2026** (3 cameras neuves sur sites D, E, F ; reorientation de la CAM 1 ; raccordement Ethernet direct). Verifier la page Videoprotection de la prefecture de la Meuse au moment du depot (plateforme temporaire suite a l'indisponibilite de la tele-procedure ministerielle depuis le 21/10/2026).
 
 ## Role dans la candidature FIPDR 2027
 
 - Piece exigee : arrete d'autorisation en cours de validite OU accuse de depot de la demande de modification.
 - **Le depot de la demande suffit pour candidater** au FIPDR 2027 (echeance : lundi 7 decembre 2026, 0h00, Subventia).
-- L'arrete prefectoral de modification est obligatoire **avant toute mise en service** des nouvelles cameras, et le projet ne doit pas avoir debute avant l'attestation de completude du dossier FIPDR.
+- L'arrete prefectoral de modification est obligatoire **avant toute mise en service** des nouvelles cameras (et avant la reorientation effective de la CAM 1), et le projet ne doit pas avoir debute avant l'attestation de completude du dossier FIPDR.
 
 ## Procedure en vigueur (verifiee le 22 novembre 2026)
 
@@ -23,19 +23,21 @@
 - Demande initiale enregistree sous le **n° 20240253** ; dossier initial (lettre au prefet + description du projet d'aout 2025) archive dans dossier-initial/.
 - Systeme existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** sur 3 sites : site A (cameras 1-3 : entree Nord / Foucaucourt, arrivee D151 Ouest / Triaucourt, rue de la Tannerie Sud), site B (cameras 4-5 : rue du Moulin, rue de la Tannerie / Vaubecourt), site C (camera 6 : entree Est / Nubecourt) ; NVR DAHUA DHI-NVR5216-8P6EI et commutateur DH-PFS3110-8ET-96 en mairie, liaison radio NANO BEAM NBE-5AC-Gen2 ; enregistrement standard, autres options desactivees.
 - **Extension visee (perimetre du 24/11/2026)** :
-  - **3 cameras neuves sur 3 nouveaux sites, une par site** : CAM 7 (site D), CAM 8 (site E), CAM 9 (site F), a localiser ;
-  - **aucune camera existante n'est retiree, deplacee ou modifiee** (le deplacement de la CAM 1 prevu initialement est abandonne) ;
+  - **3 cameras neuves sur 3 nouveaux sites** : **CAM 7 (site D, entree du village cote Vaubecourt), CAM 8 (site E, rue du Moulin), CAM 9 (site F, rue de Soisy)** ;
+  - **reorientation de la CAM 1** (site A inchange, camera non deplacee) vers les **abords de la mairie et de la salle des fetes** ; champ actuel redondant avec la CAM 2, aucune perte de couverture ; sans acquisition, hors base eligible FIPDR ;
+  - **aucune camera existante n'est retiree ou deplacee** (l'ancien projet de deplacement de la CAM 1 est abandonne) ;
   - configuration future : **9 cameras sur 6 sites** (A : CAM 1-3 ; B : CAM 4-5 ; C : CAM 6 ; D : CAM 7 ; E : CAM 8 ; F : CAM 9).
 - **Transmission** : nouveaux sites D, E et F **raccordes au systeme existant par cablage Ethernet direct** (cuivre) ; liaisons radio existantes inchangees, aucune antenne supplementaire. **Vigilance : environ 100 m de longueur utile par segment Ethernet cuivre** ; faisabilite a confirmer par l'installateur (distances, cheminement, eventuels equipements intermediaires).
 - **Base eligible (regle DEPSA reprise dans les AAP FIPD 2027)** : base plafonnee a **15 000 EUR par camera, cout d'installation et de raccordement compris** ; exclus de ce cout : CSU, deports d'images et toute depense sans rapport avec l'installation des cameras.
   - Le **cablage Ethernet** vers les sites D, E et F releve du raccordement : a presenter **par camera dans le devis** (pas en poste separe), dans la limite du plafond.
   - Idem pour l'**alimentation electrique strictement necessaire aux cameras** (ligne dediee, armoire, protection, onduleur du systeme) : incluse dans le cout d'installation par camera. En revanche, un renforcement de reseau profitant au village, une mise aux normes de l'eclairage public ou des depenses recurrentes (abonnement, consommation) sont sans rapport direct avec l'installation des cameras : exclus.
-- **Vigilance plan de financement** : la base eligible porte sur les seules **CAM 7, 8 et 9** (cameras nouvelles ; aucune camera existante n'est impliquee, l'ambiguite du deplacement de la CAM 1 est levee). Le **commutateur PoE additionnel** (necessaire au-dela des 8 ports du commutateur existant, le total passant a 9 cameras) sera chiffre en poste distinct : demander au service instructeur s'il peut compter dans la base eligible.
+- **Vigilance plan de financement** : la base eligible porte sur les seules **CAM 7, 8 et 9** (cameras nouvelles). La **reorientation de la CAM 1**, sans acquisition, est hors base eligible (financement communal le cas echeant). Le **commutateur PoE additionnel** (necessaire au-dela des 8 ports du commutateur existant) sera chiffre en poste distinct : demander au service instructeur s'il peut compter dans la base eligible.
 - Installateur pressenti : **non certifie**, la piece 11 sera le questionnaire de conformite.
 - Deport d'images : **non prevu** ; l'arrete en vigueur permet deja aux gendarmes habilites d'acceder a tout moment aux images (art. 4, conditions de l'art. R.253-1 du CSI).
-- Justification : zones du village non couvertes ; remontees d'habitants decus de ne pas etre inclus ; bilan positif du dispositif (resolution d'une incivilite grave, assistance aux forces de l'ordre dans une investigation de cambriolage dans un village voisin).
+- Justification : zones du village non couvertes (entree cote Vaubecourt, rue du Moulin, rue de Soisy) ; remontees d'habitants decus de ne pas etre inclus ; bilan positif du dispositif (resolution d'une incivilite grave, assistance aux forces de l'ordre dans une investigation de cambriolage dans un village voisin) ; renforcement de la protection des batiments publics (mairie, salle des fetes) via la reorientation de la CAM 1.
+- **Point de coherence a verifier en visite** : la CAM 5 couvre deja « la rue de la Tannerie en provenance de Vaubecourt (Sud) » ; verifier que le champ du site D (entree cote Vaubecourt) est bien distinct de celui de la CAM 5, et le preciser le cas echeant dans le rapport de presentation (l'instructeur examinera la justification de chaque nouvelle camera).
 - Finalites a reprendre telles quelles (arrete art. 1er) : protection des batiments et installations publics et de leurs abords ; prevention des atteintes a la securite des personnes et des biens dans des lieux exposes (agressions, vols, trafic de stupefiants) ; prevention et constatation des infractions relatives a l'abandon d'ordures, dechets, materiaux ou autres objets.
-- La modification substantielle doit etre declaree aux services prefectoraux (arrete art. 5) : c'est l'objet de la presente demande.
+- La modification substantielle doit etre declaree aux services prefectoraux (arrete art. 5) : c'est l'objet de la presente demande (3 cameras nouvelles + reorientation de la CAM 1).
 
 ## Pieces du dossier de demande de modification
 
@@ -61,17 +63,17 @@ Les plans et la description du dossier initial (dossier-initial/description-proj
 
 ## Etapes
 
-1. Completer les gabarits de demande-modification/ : localisations des sites D, E et F, faits recents.
-2. **Envoyer sans tarder le courrier a l'installateur** (04-devis/courrier-installateur.md) : devis detaille **par camera** (materiel, pose, raccordement Ethernet et alimentation electrique imputables), plans (masse + detail) et questionnaire de conformite, reponse avant le 02/12/2026.
+1. Compter les gabarits de demande-modification/ : seuls les faits recents restent a completer (localisations integrees le 24/11/2026).
+2. **Envoyer sans tarder le courrier a l'installateur** (04-devis/courrier-installateur.md) : devis detaille **par camera** (materiel, pose, raccordement Ethernet et alimentation electrique imputables), plans (masse + detail) et questionnaire de conformite, reponse avant le 02/12/2026 ; prevoir l'intervention de reorientation de la CAM 1 en poste distinct.
 3. Deposer en ligne en suivant demande-modification/00-guide-depot.md.
 4. Enregistrer ici l'accuse de depot PDF : accuse-depot-modification.pdf, et copier l'arrete 2026-387 : arrete-2026-387.pdf.
 5. Cocher la piece correspondante du dossier FIPDR (README racine).
 6. En parallele : **solliciter l'avis du referent surete gendarmerie** (determinant pour la selection FIPDR, cf. www.referentsurete.fr) - possible des maintenant.
-7. Attendre l'arrete prefectoral (instruction : referent surete, commission departementale des systemes de videoprotection) ; ordre de grandeur constate dans d'autres departements : 3 a 4 mois. Aucune mise en service avant reception de l'arrete.
+7. Attendre l'arrete prefectoral (instruction : referent surete, commission departementale des systemes de videoprotection) ; ordre de grandeur constate dans d'autres departements : 3 a 4 mois. Aucune mise en service (ni reorientation effective de la CAM 1) avant reception de l'arrete.
 
 ### Reste a rassembler
 
-- [ ] Localisation des sites D, E et F (voies visees, champs de vision)
+- [x] Localisation des sites D, E et F (integree le 24/11/2026 : entree cote Vaubecourt, rue du Moulin, rue de Soisy)
 - [ ] Faits recents survenus depuis la mise en service (pour le rapport de presentation et la lettre)
 - [ ] Entreprise installeur retenue (devis par camera, plans, questionnaire conforme)
-- [ ] Devis : cheminement du cablage Ethernet vers les sites D / E / F (distances, pose, eventuels equipements intermediaires), alimentation electrique dediee des cameras, commutateur PoE additionnel, imputations par camera
+- [ ] Devis : cheminement du cablage Ethernet vers les sites D / E / F (distances, pose, eventuels equipements intermediaires), alimentation electrique dediee des cameras, commutateur PoE additionnel, imputations par camera, reorientation CAM 1 en poste distinct

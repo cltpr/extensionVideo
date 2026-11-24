@@ -4,7 +4,7 @@
 
 - Systeme existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** autorisees par l'arrete prefectoral **n° 2026-387 du 10 mars 2026** (demande n° 20240253). Sites A (cameras 1-3), B (cameras 4-5), C (camera 6) couvrant les entrees du village ; enregistreur et commutateur en mairie (Place de la Halle), liaison radio NANO BEAM NBE-5AC-Gen2.
 - Problematique de securite publique visee : rodeurs et vehicules suspects, vols de carburant sur tracteurs, degradations des armoires electriques communales, introduction nocturne dans un domicile (cf. rapport de presentation, dossier 02).
-- Objectif de l'extension : inclure dans le dispositif les zones du village non couvertes a ce jour (futurs sites D, E et F), a la demande des habitants concernes.
+- Objectif de l'extension : inclure dans le dispositif les zones du village non couvertes a ce jour (entree du village cote Vaubecourt, rue du Moulin, rue de Soisy), a la demande des habitants concernes, et renforcer la protection des abords de la mairie et de la salle des fetes.
 - Bilan du dispositif actuel : resolution d'une incivilite grave, assistance aux forces de l'ordre dans une investigation de cambriolage dans un village voisin.
 
 ## 2. Typologie et caracteristiques des equipements
@@ -13,33 +13,36 @@ Existant (autorise) :
 
 | Repere | Site | Localisation | Type | Caracteristiques |
 |---|---|---|---|---|
-| CAM 1 | A | Entree du village, provenance Foucaucourt (Nord) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
+| CAM 1 | A | Entree du village, provenance Foucaucourt (Nord) - **champ futur : abords de la mairie et de la salle des fetes** | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 | CAM 2 | A | Arrivee D151, provenance Triaucourt (Ouest) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 | CAM 3 | A | Rue de la Tannerie (Sud) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 | CAM 4 | B | Rue du Moulin (Ouest) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 | CAM 5 | B | Rue de la Tannerie, provenance Vaubecourt (Sud) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 | CAM 6 | C | Entree du village, provenance Nubecourt (Est) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 
+- **CAM 1 : reorientation du champ de vision** (camera non deplacee, site A inchange) : le champ actuel, redondant avec celui de la CAM 2, est reforme vers les abords de la **mairie** et de la **salle des fetes** (protection des batiments publics). Aucune perte de couverture : la CAM 2 couvre seule le champ des actuelles CAM 1-2. Operation declaree dans la demande de modification ; sans acquisition, hors base eligible FIPDR.
+
 Extension (perimetre du 24/11/2026) :
 
 | Repere | Site | Localisation | Type | Caracteristiques |
 |---|---|---|---|---|
-| CAM 7 | D (nouveau) | [a preciser] | [a definir au devis] | [resolution, angle, vision nocturne] |
-| CAM 8 | E (nouveau) | [a preciser] | [a definir au devis] | [resolution, angle, vision nocturne] |
-| CAM 9 | F (nouveau) | [a preciser] | [a definir au devis] | [resolution, angle, vision nocturne] |
+| CAM 7 | D (nouveau) | Entree du village, cote Vaubecourt | [a definir au devis] | [resolution, angle, vision nocturne] |
+| CAM 8 | E (nouveau) | Rue du Moulin | [a definir au devis] | [resolution, angle, vision nocturne] |
+| CAM 9 | F (nouveau) | Rue de Soisy | [a definir au devis] | [resolution, angle, vision nocturne] |
 
-- **Aucune camera existante n'est retiree, deplacee ou modifiee** : les CAM 1 a 6 demeurent en place, sur leurs sites et avec leurs reglages actuels (le deplacement de la CAM 1 prevu initialement est abandonne).
+- Les CAM 2 a 6 demeurent en place, sans modification.
 - Configuration future : site A (CAM 1, 2, 3), site B (CAM 4, 5), site C (CAM 6), site D (CAM 7), site E (CAM 8), site F (CAM 9). **Total : 9 cameras sur 6 sites.**
 - Enregistreur / stockage : DAHUA DHI-NVR5216-8P6EI (16 canaux ; capacite disque [ ]), duree de conservation **30 jours maximum**.
 - Commutateur : DH-PFS3110-8ET-96 (8 ports PoE) en mairie, **sature a 8 ports** ; le passage a 9 cameras impose un **commutateur PoE additionnel** (au devis, en poste distinct : eligibilite FIPDR a confirmer aupres du service instructeur).
 - Transmission : liaison radio NANO BEAM NBE-5AC-Gen2 entre sites existants et mairie, **inchangee** ; **sites D, E et F raccordes au systeme existant par cablage Ethernet direct** (cuivre), sans antenne supplementaire. **Vigilance : environ 100 m de longueur utile par segment Ethernet cuivre** ; cheminement, mode de pose et eventuels equipements intermediaires a faire figurer au devis.
 - Alimentation / onduleur : [ ]
-- Signalisation : [nombre et emplacement des panneaux, cf. modele d'affiche dossier 02 ; panneaux a prevoir aux abords des sites D, E et F]
+- Signalisation : [nombre et emplacement des panneaux, cf. modele d'affiche dossier 02 ; panneaux a prevoir aux abords des sites D, E et F ; affichage du site A a verifier apres reorientation de la CAM 1]
 
 ## 3. Localisation
 
 - Joindre le **plan de situation** des cameras existantes et nouvelles (PDF nomme plan-localisation-cameras.pdf) ; reprendre la presentation du dossier initial (dossier-initial/description-projet-initial.tex : villageComplet.jpg par site, champs de vues par camera, zones privees masquees).
-- [ ] Plan de localisation des equipements (sites A a F), avec le cheminement du cablage Ethernet vers les sites D, E et F.
+- [ ] Plan de localisation des equipements (sites A a F), avec le cheminement du cablage Ethernet vers les sites D (entree cote Vaubecourt), E (rue du Moulin) et F (rue de Soisy), et les champs de vision actualises (CAM 1 vers mairie / salle des fetes).
+- Zones privees (fenetres, cours) a masquer dans les champs de vision des cameras nouvelles, comme dans le dossier initial.
 
 ## 4. Exploitation et consultation des images
 

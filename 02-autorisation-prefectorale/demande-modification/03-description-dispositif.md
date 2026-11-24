@@ -3,7 +3,8 @@
 ## Architecture
 
 - Existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** (sites A, B et C, entrees du village) raccordees au commutateur **DH-PFS3110-8ET-96** (8 ports PoE, 6 utilises actuellement) vers l'enregistreur **DAHUA DHI-NVR5216-8P6EI** (16 canaux) en mairie, Place de la Halle.
-- Extension : **3 cameras nouvelles sur trois nouveaux sites** : CAM 7 (site D), CAM 8 (site E), CAM 9 (site F), [modeles a definir au devis]. **Aucune camera existante n'est deplacee ou modifiee.**
+- Extension : **3 cameras nouvelles sur trois nouveaux sites** : CAM 7 (site D, entree du village cote Vaubecourt), CAM 8 (site E, rue du Moulin), CAM 9 (site F, rue de Soisy), [modeles a definir au devis].
+- **Aucune camera existante n'est deplacee** ; la **CAM 1** demeure sur son site (A) et verra son **champ de vision reoriente** vers les abords de la mairie et de la salle des fetes (champ actuel redondant avec la CAM 2, qui couvre seule le champ des actuelles CAM 1-2 : aucune perte de couverture).
 - Configuration future : **9 cameras** sur 6 sites : A (CAM 1, 2, 3), B (CAM 4, 5), C (CAM 6), D (CAM 7), E (CAM 8), F (CAM 9).
 - Ports PoE : le commutateur existant est limite a **8 ports** ; le passage a 9 cameras impose un **commutateur PoE additionnel** pour les cameras nouvelles (a faire figurer au devis, dossier 04-devis/).
 
