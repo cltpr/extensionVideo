@@ -38,7 +38,7 @@
 
 - Cadrage horizontal, légèrement plongeant, couvrant la voie publique et un trottoir, haie verte et bâtiments résidentiels en arrière-plan.
 - Prise de jour, ciel partiellement nuageux, netteté détaillée.
-- **Fenêtres, portes et entrées de propriétés privées identifiables dans le champ** : à faire vérifier par l'installateur (cadrage / masquage des zones privées, comme prévu au dossier initial) et àdocumenter dans l'AIPD.
+- **Fenêtres, portes et entrées de propriétés privées identifiables dans le champ** : à faire vérifier par l'installateur (cadrage / masquage des zones privées, comme prévu au dossier initial) et à documenter dans l'AIPD.
 
 ### CAM 5 - rue de la Tannerie (provenance Vaubécourt, Sud)
 
