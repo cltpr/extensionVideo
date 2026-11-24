@@ -52,7 +52,7 @@ Avis du referent surete : sollicite le [date] / avis rendu le [date] : [resume].
 |---|---|---|---|
 | CAM 1 | A (inchange) | Entree du village, provenance Foucaucourt (Nord) ; champ redondant avec la CAM 2 | Abords de la **mairie** et de la **salle des fetes** |
 
-- **Aucune perte de couverture** : la CAM 2 couvre seule le champ des actuelles CAM 1 et 2.
+- **Motif de la reorientation** : le champ actuel de la CAM 1 est **redondant** avec celui de la CAM 2 ; sa reorientation permet, sans perte de couverture (la CAM 2 couvre seule le champ des actuelles CAM 1-2), de repondre a l'**interet de proteger la mairie et la salle des fetes**, batiments publics dont les abords doivent etre mieux surveilles (finalite visee par l'arrete, art. 1er).
 - Cette reorientation est une modification substantielle declaree au titre de l'article 5 de l'arrete n° 2026-387 ; elle est integree a la presente demande.
 - Elle ne donne lieu a aucune acquisition : hors base eligible FIPDR (financement communal le cas echeant).
 

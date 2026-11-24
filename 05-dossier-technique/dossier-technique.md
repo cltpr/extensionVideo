@@ -20,7 +20,7 @@ Existant (autorise) :
 | CAM 5 | B | Rue de la Tannerie, provenance Vaubecourt (Sud) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 | CAM 6 | C | Entree du village, provenance Nubecourt (Est) | fixe | DAHUA DH-IPC-HFW5442E-ZE |
 
-- **CAM 1 : reorientation du champ de vision** (camera non deplacee, site A inchange) : le champ actuel, redondant avec celui de la CAM 2, est reforme vers les abords de la **mairie** et de la **salle des fetes** (protection des batiments publics). Aucune perte de couverture : la CAM 2 couvre seule le champ des actuelles CAM 1-2. Operation declaree dans la demande de modification ; sans acquisition, hors base eligible FIPDR.
+- **CAM 1 : reorientation du champ de vision** (camera non deplacee, site A inchange). **Motif double** : (1) le champ actuel est **redondant** avec celui de la CAM 2 (aucune perte de couverture : la CAM 2 couvre seule le champ des actuelles CAM 1-2) ; (2) **interet de proteger la mairie et la salle des fetes**, batiments publics dont les abords doivent etre mieux surveilles. Le champ est reforme en consequence. Operation declaree dans la demande de modification ; sans acquisition, hors base eligible FIPDR.
 
 Extension (perimetre du 24/11/2026) :
 
