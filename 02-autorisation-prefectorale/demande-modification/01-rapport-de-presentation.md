@@ -21,7 +21,7 @@
 - le visionnage des enregistrements a permis de **resoudre une incivilite grave** ;
 - il a egalement **assiste les forces de l'ordre** dans le cadre d'une investigation menee a la suite d'un **cambriolage commis dans un village voisin**.
 
-**Objet de l'extension** : inclure dans le dispositif des **zones du village non couvertes** par les cameras actuelles : [zones / voies a preciser, correspondant aux futurs sites D et E].
+**Objet de l'extension** : inclure dans le dispositif des **zones du village non couvertes** par les cameras actuelles : [zones / voies a preciser, correspondant aux futurs sites D, E et F].
 
 **Remontees des habitants** : les habitants des zones non couvertes, decus de ne pas etre inclus dans le dispositif, ont demande a beneficier de la meme protection que le reste du village : [dates et formes des remontees].
 
@@ -38,23 +38,19 @@ Avis du referent surete : sollicite le [date] / avis rendu le [date] : [resume].
 
 ### 3. Extension demandee
 
-**Installation de cameras nouvelles (achat)** :
+**Installation de trois cameras nouvelles (achat)** :
 
 | Repere | Site | Localisation (voie / lieu) | Motif |
 |---|---|---|---|
 | CAM 7 | D (nouveau) | | Couverture d'une zone non couverte a ce jour |
-| CAM 8 | D (nouveau) | | Couverture d'une zone non couverte a ce jour |
+| CAM 8 | E (nouveau) | | Couverture d'une zone non couverte a ce jour |
+| CAM 9 | F (nouveau) | | Couverture d'une zone non couverte a ce jour |
 
-**Deplacement d'une camera existante** : la camera 1, dont le champ de vision sur le site A est **redondant** avec celui de la camera 2, sera deplacee vers le nouveau **site E** afin de couvrir une zone aujourd'hui non couverte.
-
-| Repere | Site actuel | Site futur |
-|---|---|---|
-| CAM 1 | A | E (nouveau) |
-
-- Retrait correspondant sur le site A : la camera 2, conservee telle quelle, couvre le champ de vision des actuelles cameras 1 et 2 ; la camera 3 demeure en place.
-- Aucune autre camera n'est retiree, deplacee ou modifiee.
-- Configuration future : site A (cameras 2 et 3), site B (cameras 4 et 5), site C (camera 6), site D (cameras 7 et 8), site E (camera 1).
-- Nombre total de cameras apres extension : **8**.
+- **Aucune camera existante n'est retiree, deplacee ou modifiee** : les six cameras autorisees (CAM 1 a CAM 6) demeurent en place, sur leurs sites et avec leurs reglages actuels.
+- Raccordement des nouveaux sites D, E et F au systeme existant par **cablage Ethernet direct** ; liaisons radio existantes inchangees, aucune antenne supplementaire.
+- Un equipement PoE additionnel sera necessaire, le commutateur existant (8 ports) etant sature par le passage a 9 cameras.
+- Configuration future : site A (cameras 1, 2 et 3), site B (cameras 4 et 5), site C (camera 6), site D (camera 7), site E (camera 8), site F (camera 9).
+- Nombre total de cameras apres extension : **9**.
 
 ### 4. Finalites
 
@@ -67,7 +63,7 @@ Identiques a celles de l'arrete n° 2026-387 en vigueur :
 
 - Poste de visualisation : mairie d'Evres, Place de la Halle (personnes habilitees : liste jointe) ; les fonctionnaires de gendarmerie habilites accederent aux images a tout moment (art. R.253-1 du CSI, arrete art. 4).
 - Enregistrement : mode standard, duree maximale de **30 jours**, effacement automatique (hormis les cas d'enquete de flagrant delit, d'enquete preliminaire ou d'information judiciaire) ; les autres options de l'enregistreur restent desactivees.
-- Information du public : panneaux conformes (modele joint), apparences a prevoir aux abords des sites D et E.
+- Information du public : panneaux conformes (modele joint), apparences a prevoir aux abords des sites D, E et F.
 
 ### 6. Droit d'acces
 

@@ -3,17 +3,16 @@
 ## Architecture
 
 - Existant : **6 cameras DAHUA DH-IPC-HFW5442E-ZE** (sites A, B et C, entrees du village) raccordees au commutateur **DH-PFS3110-8ET-96** (8 ports PoE, 6 utilises actuellement) vers l'enregistreur **DAHUA DHI-NVR5216-8P6EI** (16 canaux) en mairie, Place de la Halle.
-- Extension :
-  - **2 cameras nouvelles sur le nouveau site D** (CAM 7 et CAM 8), [modeles a definir au devis] ;
-  - **deplacement de la CAM 1** du site A (champ de vision redondant avec la CAM 2) vers le **nouveau site E** [voie / lieu a preciser].
-- Configuration future : **8 cameras** sur 5 sites : A (CAM 2, 3), B (CAM 4, 5), C (CAM 6), D (CAM 7, 8), E (CAM 1).
-- Ports PoE : **8/8 utilises apres extension** (les CAM 7 et 8 occupent les 2 ports libres ; la CAM 1 deplacee conserve sa baie physique). Le NVR (16 canaux) reste evolutif mais toute camera supplementaire exigera un equipement PoE additionnel.
+- Extension : **3 cameras nouvelles sur trois nouveaux sites** : CAM 7 (site D), CAM 8 (site E), CAM 9 (site F), [modeles a definir au devis]. **Aucune camera existante n'est deplacee ou modifiee.**
+- Configuration future : **9 cameras** sur 6 sites : A (CAM 1, 2, 3), B (CAM 4, 5), C (CAM 6), D (CAM 7), E (CAM 8), F (CAM 9).
+- Ports PoE : le commutateur existant est limite a **8 ports** ; le passage a 9 cameras impose un **commutateur PoE additionnel** pour les cameras nouvelles (a faire figurer au devis, dossier 04-devis/).
 
 ## Transmission
 
-- Liaison radio **NANO BEAM NBE-5AC-Gen2** entre les sites et la mairie, reseau dedie isole d'Internet, **inchangee**.
-- **Sites D et E : raccordement au site B par fibre optique**, sans antenne supplementaire ; le site B reste relie a la mairie comme a ce jour.
-- Cheminement fibre, connectique optique et alimentation des nouvelles cameras (PoE ou injecteur) : a faire figurer dans le devis (dossier 04-devis/).
+- Liaison radio **NANO BEAM NBE-5AC-Gen2** entre les sites existants et la mairie, reseau dedie isole d'Internet, **inchangee** ; aucune antenne supplementaire.
+- **Nouveaux sites D, E et F : raccordement au systeme existant par cablage Ethernet direct** (cuivre), cheminement a preciser par l'installateur.
+- **Point de vigilance technique** : la longueur utile d'un segment Ethernet cuivre est d'environ 100 m ; l'installateur devra confirmer la faisabilite de chaque liaison (distances reels, mode de pose, eventuels equipements intermediaires) dans le devis.
+- Cablage Ethernet et alimentation electrique dediee des nouvelles cameras : a faire figurer dans le devis (dossier 04-devis/), imputes par camera.
 
 ## Enregistrement et stockage
 
