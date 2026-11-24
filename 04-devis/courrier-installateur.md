@@ -22,7 +22,7 @@ L'opération porterait sur l'installation de **3 caméras neuves sur 3 nouveaux 
 - **CAM 8, site E : rue du Moulin** ;
 - **CAM 9, site F : rue de Soisy** ;
 
-sans modification des caméras existantes, à l'exception duénagement de la **réorientation du champ de vision de la caméra 1** (elle reste sur son site) vers les abords de la **mairie et de la salle des fêtes**. Le raccordement des nouveaux sites au système actuel se fera **par câblage Ethernet direct**. La signalétique étant déjà en place, elle n'a rien à figurer au devis.
+sans modification des caméras existantes, à l'exception de la **réorientation du champ de vision de la caméra 1** (elle reste sur son site) vers les abords de la **mairie et de la salle des fêtes**. Le raccordement des nouveaux sites au système actuel se fera **par câblage Ethernet direct**. La signalétique étant déjà en place, elle n'a rien à figurer au devis.
 
 Nous vous proposons de convenir rapidement d'une visite sur place pour valider les emplacements exacts et les champs de vision. **Merci de vérifier lors de cette visite la faisabilité du câblage Ethernet direct** (la longueur utile d'un segment cuivre est d'environ 100 m : distances réelles, mode de pose, éventuels équipements intermédiaires à prévoir).
 
