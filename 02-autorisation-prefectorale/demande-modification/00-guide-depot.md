@@ -31,4 +31,4 @@ Reunir :
 
 - Page Videoprotection de la prefecture de la Meuse : https://www.meuse.gouv.fr/index.php/Actions-de-l-Etat/Securite/Securite-interieure-et-prevention-de-la-delinquance/Videoprotection
 - Bureau de l'ordre public et de la securite interieure (mentionne sur l'arrete 2026-387) : ordre-public-securite-interieure@meuse.gouv.fr, tel. 03 29 77 55 59, Prefecture de la Meuse, 40 rue du Bourg, 55012 Bar-le-Duc Cedex.
-- La prefecture de la Meuse precise que les dossiers complets sont transmits **de facon dematerialisee uniquement** : la demarche en ligne ci-dessus est donc le canal officiel.
+- La prefecture de la Meuse precise que les dossiers complets sont transmis **de facon dematerialisee uniquement** : la demarche en ligne ci-dessus est donc le canal officiel.

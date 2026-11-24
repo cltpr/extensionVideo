@@ -61,7 +61,7 @@ et de raccordement compris**. Les modalités suivantes sont donc impératives.
 
 ### Postes distincts (hors base « par caméra »)
 
-- **Réorientation de la CAM 1** vers les abords de la mairie et de la salle des fêts : intervention
+- **Réorientation de la CAM 1** vers les abords de la mairie et de la salle des fêtes : intervention
   à chiffrer en poste distinct (sans acquisition, hors base éligible FIPDR ; financement communal).
 - **Commutateur PoE additionnel** : le commutateur existant (DH-PFS3110-8ET-96, 8 ports PoE) sera
   saturé ; le passage à 9 caméras impose un équipement PoE supplémentaire, en poste distinct.
