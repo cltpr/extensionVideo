@@ -74,7 +74,7 @@ Identiques a celles de l'arrete n° 2026-387 en vigueur :
 
 - Poste de visualisation : mairie d'Evres, Place de la Halle (personnes habilitees : liste jointe) ; les fonctionnaires de gendarmerie habilites accederent aux images a tout moment (art. R.253-1 du CSI, arrete art. 4).
 - Enregistrement : mode standard, duree maximale de **30 jours**, effacement automatique (hormis les cas d'enquete de flagrant delit, d'enquete preliminaire ou d'information judiciaire) ; les autres options de l'enregistreur restent desactivees.
-- Information du public : panneaux conformes (modele joint), apparences a prevoir aux abords des sites D, E et F ; l'affichage existant du site A demeure pertinent (la voie publique y reste visee apres reorientation).
+- Information du public : **panonceaux deja en place** sur le dispositif actuel, conformes a l'arrete (art. 2) ; des panonceaux identiques seront apposes aux abords des sites D, E et F a la mise en service ; l'affichage du site A demeure pertinent (la voie publique y reste visee apres reorientation).
 
 ### 6. Droit d'acces
 

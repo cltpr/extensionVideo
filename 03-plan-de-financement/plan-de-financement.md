@@ -2,6 +2,7 @@
 
 > Périmètre du 24/11/2026 : **3 caméras neuves (CAM 7, 8, 9) sur les nouveaux sites D, E et F**,
 > raccordées par câblage Ethernet direct. Aucune caméra existante n'est concernée.
+> Signalétique : panonceaux déjà en place, aucun poste à inscrire.
 
 ## 1. Dépenses
 
@@ -14,13 +15,11 @@
 | CAM 9 (site F) | idem | | |
 | Commutateur PoE additionnel | nécessaire au-delà de 8 caméras (total 9) | | |
 | Baie / onduleur / protections | strictement nécessaires aux caméras | | |
-| Signalétique réglementaire | panneaux aux abords des sites D, E, F | | |
 | **Total** | | | |
 
 **Base éligible FIPDR (à vérifier avec le devis)** : somme des sous-totaux par caméra, plafonnée à
 **15 000 EUR HT par caméra**, installation et raccordement compris. Le commutateur PoE additionnel
-et la signalétique sont chiffrés en postes distincts (éligibilité à confirmer auprès du service
-instructeur).
+est chiffré en poste distinct (éligibilité à confirmer auprès du service instructeur).
 
 ## 2. Recettes
 

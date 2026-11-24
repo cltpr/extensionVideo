@@ -36,7 +36,7 @@ Extension (perimetre du 24/11/2026) :
 - Commutateur : DH-PFS3110-8ET-96 (8 ports PoE) en mairie, **sature a 8 ports** ; le passage a 9 cameras impose un **commutateur PoE additionnel** (au devis, en poste distinct : eligibilite FIPDR a confirmer aupres du service instructeur).
 - Transmission : liaison radio NANO BEAM NBE-5AC-Gen2 entre sites existants et mairie, **inchangee** ; **sites D, E et F raccordes au systeme existant par cablage Ethernet direct** (cuivre), sans antenne supplementaire. **Vigilance : environ 100 m de longueur utile par segment Ethernet cuivre** ; cheminement, mode de pose et eventuels equipements intermediaires a faire figurer au devis.
 - Alimentation / onduleur : [ ]
-- Signalisation : [nombre et emplacement des panneaux, cf. modele d'affiche dossier 02 ; panneaux a prevoir aux abords des sites D, E et F ; affichage du site A a verifier apres reorientation de la CAM 1]
+- Signalisation : **panonceaux deja en place**, conformes a l'arrete n° 2026-387 ; apposition de panonceaux identiques aux abords des sites D, E et F a la mise en service (aucune depense a chiffrer au devis ni au plan de financement) ; affichage du site A a verifier apres reorientation de la CAM 1
 
 ## 3. Localisation
 
