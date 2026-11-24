@@ -43,7 +43,7 @@ Extension (perimetre du 24/11/2026) :
 - Joindre le **plan de situation** des cameras existantes et nouvelles (PDF nomme plan-localisation-cameras.pdf) ; reprendre la presentation du dossier initial (dossier-initial/description-projet-initial.tex : villageComplet.jpg par site, champs de vues par camera, zones privees masquees).
 - [ ] Plan de localisation des equipements (sites A a F), avec le cheminement du cablage Ethernet vers les sites D (entree cote Vaubecourt), E (rue du Moulin) et F (rue de Soisy), et les champs de vision actualises (CAM 1 vers mairie / salle des fetes).
 - Zones privees (fenetres, cours) a masquer dans les champs de vision des cameras nouvelles, comme dans le dossier initial.
-- Captures des champs de vision : documentées dans champs-de-vision.md (fiche créée le 24/11/2026 ; **capture CAM 3 reçue et décrite**, les autres à fournir).
+- Captures des champs de vision : documentées dans champs-de-vision.md (fiche créée le 24/11/2026 ; **captures CAM 3, 4, 5 et 6 reçues et décrites** ; CAM 1 et 2 à fournir). Vigilance relevée : zones privées visibles sur CAM 4 et CAM 6 (voir champs-de-vision.md).
 
 ## 4. Exploitation et consultation des images
 
